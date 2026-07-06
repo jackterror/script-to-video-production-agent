@@ -1,0 +1,4 @@
+interface:
+  display_name: "Script-to-Video Production Agent"
+  short_description: "Turn scripts into narration-locked scenes, prompts, and asset queues"
+  default_prompt: "Use $script-to-video-production-agent to turn my tutorial or explainer script into narration-locked scenes, a visual review pass, prompt documents, and a resumable local asset queue."

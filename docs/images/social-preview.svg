@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Script to Video Production Agent</title>
+  <desc id="desc">Social preview image for the Script to Video Production Agent repository.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f7fb"/>
+      <stop offset="100%" stop-color="#dfe8f5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect x="72" y="72" width="1136" height="496" rx="28" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.08"/>
+  <text x="120" y="184" fill="#0f172a" font-family="Aptos, Inter, Arial, sans-serif" font-size="54" font-weight="700">
+    Script to Video Production Agent
+  </text>
+  <text x="120" y="244" fill="#334155" font-family="Aptos, Inter, Arial, sans-serif" font-size="28">
+    Narration-locked scenes, reviewable visual direction, prompt packs, and local asset queues.
+  </text>
+  <text x="120" y="344" fill="#0f172a" font-family="Aptos, Inter, Arial, sans-serif" font-size="24" font-weight="600">
+    Import
+  </text>
+  <text x="120" y="380" fill="#475569" font-family="Aptos, Inter, Arial, sans-serif" font-size="22">
+    DOCX, Markdown, plain text
+  </text>
+  <text x="430" y="344" fill="#0f172a" font-family="Aptos, Inter, Arial, sans-serif" font-size="24" font-weight="600">
+    Review
+  </text>
+  <text x="430" y="380" fill="#475569" font-family="Aptos, Inter, Arial, sans-serif" font-size="22">
+    visual cleanup with traceability
+  </text>
+  <text x="760" y="344" fill="#0f172a" font-family="Aptos, Inter, Arial, sans-serif" font-size="24" font-weight="600">
+    Queue
+  </text>
+  <text x="760" y="380" fill="#475569" font-family="Aptos, Inter, Arial, sans-serif" font-size="22">
+    retries, approvals, provider attempts
+  </text>
+  <text x="120" y="500" fill="#0f172a" font-family="Aptos, Inter, Arial, sans-serif" font-size="20">
+    jackdalrymple.com
+  </text>
+  <text x="1020" y="500" fill="#0f172a" font-family="Aptos, Inter, Arial, sans-serif" font-size="20">
+    capandcut.com
+  </text>
+</svg>

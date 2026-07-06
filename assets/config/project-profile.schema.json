@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Script To Video Project Profile",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "project_id",
+    "title",
+    "tutorial_type",
+    "audience"
+  ],
+  "properties": {
+    "project_id": { "type": "string", "minLength": 1 },
+    "title": { "type": "string", "minLength": 1 },
+    "tutorial_type": { "type": "string", "enum": ["physical", "software"] },
+    "audience": { "type": "string", "minLength": 1 },
+    "language": { "type": "string", "default": "English" },
+    "voice": { "type": "string" },
+    "duration_target": { "type": "string" },
+    "aspect_ratio": { "type": "string", "default": "16:9" },
+    "default_shot_count": { "type": "integer", "minimum": 1, "maximum": 12, "default": 4 },
+    "visual_style": { "type": "string" },
+    "motion_policy": { "type": "string" },
+    "brand_rules": {
+      "type": "array",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "forbidden_visuals": {
+      "type": "array",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "provider_budget_policy": { "type": "string" }
+  }
+}

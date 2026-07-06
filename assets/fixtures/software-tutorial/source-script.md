@@ -1,0 +1,25 @@
+# Build a Weekly Status Dashboard in ProjectBoard
+
+Scene 1
+Narration:
+"Open the Projects workspace and create a new dashboard called Weekly Status."
+Visual:
+Operator opens the Projects workspace, clicks New Dashboard, and types Weekly Status into the title field.
+
+Scene 2
+Narration:
+"Add the Active Work table and filter it to items due in the next seven days."
+Visual:
+The dashboard builder inserts a table block and applies a due-date filter for the next week.
+
+Scene 3
+Narration:
+"Create a chart that groups work by owner so the team can see who is carrying the most load."
+Visual:
+Operator adds a bar chart, selects owner as the grouping field, and checks the preview before saving.
+
+Scene 4
+Narration:
+"Share the dashboard with the team and pin it so it stays visible during the weekly review."
+Visual:
+Share settings open, team members are added, and the operator pins the dashboard from the header menu.

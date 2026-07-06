@@ -1,0 +1,23 @@
+{
+  "project_id": "fixture-software",
+  "title": "Build a Weekly Status Dashboard in ProjectBoard",
+  "tutorial_type": "software",
+  "audience": "project coordinators",
+  "language": "English",
+  "voice": "Clear product trainer",
+  "duration_target": "4-5 minutes",
+  "aspect_ratio": "16:9",
+  "default_shot_count": 4,
+  "visual_style": "Photorealistic screen-capture planning with realistic interface continuity",
+  "motion_policy": "Keep cursor movement deliberate. Use stable screen framing and avoid decorative transitions.",
+  "brand_rules": [
+    "Keep interface copy legible.",
+    "Avoid fake notification clutter."
+  ],
+  "forbidden_visuals": [
+    "floating icons",
+    "invented analytics claims",
+    "decorative stickers"
+  ],
+  "provider_budget_policy": "Require explicit approval before paid generation."
+}

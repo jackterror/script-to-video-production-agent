@@ -1,0 +1,23 @@
+{
+  "project_id": "fixture-physical",
+  "title": "Replace a Wall-Mounted Air Filter Safely",
+  "tutorial_type": "physical",
+  "audience": "maintenance technicians",
+  "language": "English",
+  "voice": "Calm training narrator",
+  "duration_target": "2-3 minutes",
+  "aspect_ratio": "16:9",
+  "default_shot_count": 4,
+  "visual_style": "Photorealistic, real-world live-action",
+  "motion_policy": "Keep movement subtle and task-focused. Use stable framing and avoid exaggerated gestures.",
+  "brand_rules": [
+    "No on-screen logos or branded UI overlays.",
+    "Keep tools and wardrobe neutral."
+  ],
+  "forbidden_visuals": [
+    "floating captions",
+    "decorative graphics",
+    "unsafe hand placement"
+  ],
+  "provider_budget_policy": "Require explicit approval before paid generation."
+}
