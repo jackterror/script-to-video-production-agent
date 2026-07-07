@@ -81,7 +81,7 @@ def parse_scenes_from_text(text: str, tutorial_type: str) -> list[Scene]:
             narration.append(raw)
             continue
         if mode == "visuals":
-            visuals.append(re.sub(r"^[—–-]\s*", "", raw))
+            visuals.append(re.sub(r"^[\u2014\u2013-]\s*", "", raw))
             continue
 
     if current_number is not None:
