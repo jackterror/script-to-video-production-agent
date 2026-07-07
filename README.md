@@ -89,6 +89,6 @@ python3 scripts/package_release.py
 
 ## Creator and license
 
-Created by [Jack Dalrymple](https://www.jackdalrymple.com/), Founder of [Cap & Cut](https://capandcut.com/). See [CREATOR.md](CREATOR.md).
+Created by [Jack Dalrymple](https://www.jackdalrymple.com/), Founder of [Cap and Cut](https://capandcut.com/). See [CREATOR.md](CREATOR.md).
 
 Released under the MIT License. See [LICENSE](LICENSE).
